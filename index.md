@@ -8,4 +8,4 @@ title: XS's personal space
 I decided long ago, never to walk in anyones' shadows.
 
 ## Notes
-- [First Note] (/2026/04/04/initial.html)
+- [First Note](/2026/04/04/initial.html)
